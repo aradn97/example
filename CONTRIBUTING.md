@@ -1,0 +1,1 @@
+Please send a GitHub Pull Request to my email with a clear list of what you've done. When you send a pull request, I will love you forever if you include RSpec examples. I can always use more test coverage. Please follow my coding conventions and make sure all of your commits are atomic (one feature per commit).
